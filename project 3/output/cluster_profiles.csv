@@ -1,0 +1,3 @@
+Cluster,Customers,AvgOrders,AvgQuantity,AvgSpent,AvgOrderValue,AvgUnitPrice,AvgItemsInCart,AvgUniqueProducts,AvgRecencyDays
+0,1178,1.0,2.95,1057.07,1057.07,357.13,5.49,1.0,463.69
+1,11,2.0,5.45,1775.98,887.99,317.79,5.05,1.73,311.45
